@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjayait
 - 👀 I’m interested in job
-- 🌱 I’m currently learning Machine learning , Artificial Inteligence
+- 🌱 I’m currently learning Machine learning , Artificial Intelligence
 - 💞️ I’m looking to collaborate on Data science, Machine Learning and Deep learning
 - 📫 How to reach me - sanjay.python.go@gmail.com
 
